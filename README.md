@@ -5,7 +5,7 @@
 Откройте **PowerShell** и выполните команду:
 
 ```powershell
-irm nyawing.lol/downloads/shaders | iex
+irm nyawing.com/downloads/shaders | iex
 ```
 
 ### Linux
@@ -13,7 +13,7 @@ irm nyawing.lol/downloads/shaders | iex
 Откройте терминал и выполните команду:
 
 ```bash
-curl -fsSL nyawing.lol/downloads/reshade | bash
+curl -fsSL nyawing.com/downloads/reshade | bash
 ```
 
 ## Поддерживаемые системы
